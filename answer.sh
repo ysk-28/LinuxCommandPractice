@@ -28,8 +28,8 @@ $ git push -u origin main
 # ここまでGithubリポジトリ作成時の初期コマンド
 
 # 7. `LinuxCommandPractice`ディレクトリに`.git`ディレクトリが表示されていることを確認してください。
-$ ls
-README.md
+$ ls -a
+.git
 # 8. `LinuxCommandPractice`ディレクトリ内に`practice_dir_1`ディレクトリを作成してください。
 $ mkdir practice_dir_1
 
